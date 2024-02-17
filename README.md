@@ -3,7 +3,7 @@ This Repo Contains a Audio Shop WebSite Made Using Reactjs , Context And Framer 
 
 
 ## Preview
-[amirhayati.github.io/Audio_Shopping_WebSite/](https://amirhayati.github.io/Audio_Shopping_WebSite/)
+   https://audio-product-e-com-web.netlify.app/
 
 ## TechStack
 - Reactjs
